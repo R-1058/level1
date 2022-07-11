@@ -1,0 +1,1 @@
+jre\bin\java.exe -jar Git_Integration.jar
